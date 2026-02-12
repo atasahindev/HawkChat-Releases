@@ -10,8 +10,8 @@ En güncel sürümleri aşağıdaki tablodan veya sağ taraftaki **"Releases"** 
 
 | Platform | Versiyon | Dosya | Bağlantı |
 | :--- | :---: | :---: | :--- |
-| **Android** | `v2.0.0` | `.apk` | [İndir (Direct APK)](../../releases/latest) |
-| **Windows** | `v2.0.0` | `.exe` | [İndir (Setup.exe)](../../releases/latest) |
+| **Android** | `v2.0.0` | `.apk` | [İndir (Direct APK)](https://github.com/atasahindev/HawkChat-Releases/releases/download/v2.0.0/HawkChat.Android.2.0.0.apk) |
+| **Windows** | `v2.0.0` | `.exe` | [İndir (Setup.exe)](https://github.com/atasahindev/HawkChat-Releases/releases/download/v2.0.0/HawkChat.Desktop.2.0.0.exe) |
 
 ---
 
@@ -27,12 +27,12 @@ En güncel sürümleri aşağıdaki tablodan veya sağ taraftaki **"Releases"** 
 ## 🛠️ Kurulum Talimatları
 
 ### 📱 Android Kurulumu
-1. `hawkchat-release.apk` dosyasını indirin.
+1. `HawkChat.Android.2.0.0.apk` dosyasını indirin.
 2. Cihazınızda **"Bilinmeyen Kaynaklardan Uygulama Yükle"** izninin aktif olduğundan emin olun.
 3. Dosyayı açın ve kurulumu başlatın.
 
 ### 💻 Windows Kurulumu
-1. `HawkChat.Setup.2.0.0.exe` dosyasını indirin.
+1. `HawkChat.Desktop.2.0.0.exe` dosyasını indirin.
 2. Kurulum sihirbazını başlatmak için dosyaya çift tıklayın.
 3. Masaüstündeki **HawkChat** kısayolu ile uygulamayı başlatın.
 
